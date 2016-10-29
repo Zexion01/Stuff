@@ -1,0 +1,4 @@
+min=2
+pmax=20
+medie=49.22
+gt_ma=30

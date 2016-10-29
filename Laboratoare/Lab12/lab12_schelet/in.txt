@@ -1,0 +1,8 @@
+2 7
+Mickey,Mouse 3870221222333AR  rodent  1    94  134
+Homer,Simpson 3861003123456B5   engineer 2  108 208
+Bender,Bending-Rodriguez    3871001100400BV  coolbot 0       101 110
+Frodo,Baggins       3870303111111HD  hobbit    0       90 110
+Dorel  1860110112233B1  worker 2        0 0
+Bob,Sponge     1871001100401B5  sponge   3        84 177
+Patrick,Star  1870222200402B5  none     2  88 199
